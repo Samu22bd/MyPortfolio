@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Undergraduate",
+      "organisation": "Bina Nusantara University",
+      "startDate": "August, 2022",
+      "endDate": "Present",
+      "experiences": ["Cumulative GPA of 3.82 as of 5th semester", "Worked on some projects with Java, HTML, CSS, Javascript"],
+      "imageSrc": "history/BinusLogo.jpg"
+    },
+    {
+      "role": "Student",
+      "organisation": "SMA Budi Agung",
+      "startDate": "August, 2019",
+      "endDate": "July, 2022",
+      "experiences": ["Top 10 in class"],
+      "imageSrc": "history/BudiAgungLogo.jpg"
+    }
+]

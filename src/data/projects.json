@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Code Smell",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn about code smell",
+      "skills": ["React", "Tailwind", "JavaScript"],
+      "source": "https://github.com/Samu22bd/code-smell"
+    },
+    {
+      "title": "School Management",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to manage school data",
+      "skills": ["PHP", "Laravel", "MySQL"],
+      "source": "https://github.com/Samu22bd/school-management"
+    },
+    {
+      "title": "My Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This is this portfolio",
+      "skills": ["React", "CSS", "JavaScript"],
+      "source": "https://github.com/Samu22bd/school-management"
+    }
+  ]

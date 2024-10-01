@@ -1,0 +1,12 @@
+:root{
+    /* biar gausah ribet pas mau ganti style perlu satu", pake variable */
+    /* Warna */
+    --color-text: white;
+    --color-primary: rgb(81, 119, 143);
+    --color-secondary: rgb(255, 255, 255);
+    --color-dark: rgba(108, 108, 108, 0.81);
+    --color-bg: rgb(136, 160, 199);
+
+    /* Font */
+    --font-pop: "Poppins";
+}
