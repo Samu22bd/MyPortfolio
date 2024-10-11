@@ -2,7 +2,7 @@
 
 .container {
     position: relative;
-    background-color: rgba(12, 12, 12, 0.6);
+    background-color: var(--color-dark);
     border-radius: 15px;
     padding: 30px 70px;
     margin-top: 120px;
@@ -28,6 +28,7 @@
 .aboutImage{
     width: 40%;
     margin-bottom: 30px;
+    margin-left: 10px;
 }
 
 .aboutItems{
@@ -44,7 +45,7 @@
     border-radius: 20px;
     list-style: none;
     padding: 25px;
-    background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.403) 0%, rgb(0, 0, 0, 0) 100%);
+    background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.456) 0%, rgb(0, 0, 0, 0) 100%);
     background-size: 0 100%;
     background-repeat: no-repeat;
     transition: 0.5s;
@@ -65,7 +66,6 @@
 
 @media screen and (max-width: 800px) {
     .container {
-        background-color: transparent;
         padding-left: 0;
         padding-right: 0;
     }
@@ -74,16 +74,12 @@
         flex-direction: column;
     }
 
-    .aboutImage {
-        display: none;
-    }
-
     .aboutItems{
-        margin-top: 25px;
+        gap: 20px;
     }
 
     .aboutItem{
-        padding-left: 0;
-        padding-right: 0;
+        padding: 10px 0px 10px 0px;
+        background-image: linear-gradient(90deg, rgb(0, 0, 0, 0.6) 0%, rgba(255, 255, 255, 0) 100%);
     }
 }

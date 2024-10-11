@@ -32,6 +32,10 @@
       "imageSrc": "skills/mysql.png"
     },
     {
+      "title": ".NET",
+      "imageSrc": "skills/dotnet.png"
+    },
+    {
       "title": "PHP",
       "imageSrc": "skills/php.png"
     },

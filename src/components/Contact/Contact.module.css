@@ -62,4 +62,16 @@
         align-items: center
         ;
     }
+
+    .text h2{
+        font-size: 60px;
+    }
+    
+    .text p{
+        font-size: 30px;
+    }
+
+    .link a {
+        font-size: 25px;
+    }
 }
