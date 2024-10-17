@@ -60,3 +60,9 @@
     background: var(--color-bg);
     padding: 3px 20px;
 }
+
+@media screen and (max-width: 800px) {
+    .container{
+        max-width: 300px;
+    }
+}

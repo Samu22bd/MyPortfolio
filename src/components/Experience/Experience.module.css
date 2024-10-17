@@ -24,7 +24,7 @@
     width: 45%;
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 30px;
 }
 
 .skill {
@@ -41,7 +41,7 @@
     align-items: center;
     justify-content: center;
     width: 120px;
-    height: 120px;
+    height: 125px;
 }
 
 .skillImageContainer img{
@@ -122,5 +122,15 @@
     .history{
         width: 100%;
         gap: 10px;
+    }
+
+    .historyItem{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .historyItem img {
+        width: 100px;
+        height: 80px;
     }
 }
